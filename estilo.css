@@ -292,7 +292,8 @@ body{
   }
 
 .inicio h2{
-    color:#49eec5bf;
+    color:#eeac49bf;
+    
 }
 .inicio .contenido-banner{
     padding: 20px;
@@ -314,7 +315,7 @@ body{
     font-family: 'Righteous';
 }
 .inicio .contenido-banner h2{
-    font-size: 15px;
+    font-size: 25px;
     font-weight: normal;
 }
 .inicio .contenido-banner .redes a{
@@ -358,7 +359,7 @@ body{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #49eec5bf;
+    color: #eeac49bf;
     font-weight: bold;
 }
 .sobremi .fila{
